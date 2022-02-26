@@ -4,7 +4,7 @@ Version en vigueur depuis le 27 février 2022.
 
 ## Législations
 
-En utilisant les services proposés par Morpy, vous déclarez avoir lu et accepté nos [conditions générales d'utilisation](/CONDITIONS.md) et la présente [politique de confidentialité](/CONFIDENTIALITE.md).
+En utilisant les services proposés par Morpy, vous déclarez avoir lu et accepté nos [conditions générales d'utilisation](/conditions.md) et la présente politique de confidentialité.
 
 ## Collecte des données
 
