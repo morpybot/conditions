@@ -1,4 +1,4 @@
-# Conditions générales d'utilisation de Morpy
+# Conditions générales d'utilisation
 
 Version en vigueur depuis le 27 février 2022.
 
