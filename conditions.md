@@ -1,6 +1,18 @@
 # Conditions générales d'utilisation
 
-Version en vigueur depuis le 27 février 2022.
+_Version en vigueur depuis le 27 février 2022._
+
+### Sommaire
+
+1. [Préambule](#préambule)
+2. [Législations](#législations)
+3. [Accès au service](#accès-au-service)
+4. [Contenus](#contenus)
+5. [Garanties](#garanties)
+6. [Fin du service](#fin-du-service)
+7. [Conflits](#conflits)
+8. [Évolution des conditions](#évolution-des-conditions)
+9. [Contact](#contact)
 
 ## Préambule
 
@@ -26,7 +38,7 @@ Morpy a accès aux données concernant votre compte Discord lorsque vous interra
 
 Les services proposés sont entièrement gratuits et sans publicités. Nous fournissons un bot Discord à travers lequel vous pouvez interagir et un serveur support sur Discord. L'accès au serveur Discord est régi par son règlement intérieur, disponible dans le salon "Règlement".
 
-## Contenu
+## Contenus
 
 Nous sommes responsables des contenus et annonces diffusés par le bot Morpy et sur le serveur Discord du projet.
 
@@ -46,7 +58,7 @@ Nous nous réservons le droit de vous restreindre l'accès aux services de Morpy
 
 ## Conflits
 
-En cas de conflit entre plusieurs utilisateurs ou membres du personnel concernant l'utilisation des services proposés par Morpy, vous vous engagez à nous contacter afin que nous puissons prendre les mesures adaptées.
+En cas de conflit entre plusieurs utilisateurs ou membres du personnel concernant l'utilisation des services proposés par Morpy, vous vous engagez à nous contacter afin que nous puissons prendre les mesures adaptées (voir section [Contact](#contact)).
 
 En aucun cas, nous ne sommes responsables des autres conflits non liés à l'utilisation de Morpy.
 

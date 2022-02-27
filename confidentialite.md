@@ -1,6 +1,16 @@
 # Politique de confidentialité
 
-Version en vigueur depuis le 27 février 2022.
+_Version en vigueur depuis le 27 février 2022._
+
+### Sommaire
+
+1. [Préambule](#préambule)
+2. [Législations](#législations)
+3. [Collecte des données](#collecte-des-données)
+4. [Utilisation des données](#utilisation-des-données)
+5. [Suppression des données](#suppression-des-données)
+6. [Évolution des conditions](#évolution-des-conditions)
+7. [Contact](#contact)
 
 ## Préambule
 
@@ -37,7 +47,7 @@ La protection de vos données est une de nos priorités, c'est pourquoi vos donn
 
 ## Suppression des données
 
-Conformément au [Règlement Général sur la Protection des Données (RGPD)](https://www.cnil.fr/fr/reglement-europeen-protection-donnees) de l'Union Européenne, vous pouvez demander la suppression de vos données de nos serveurs à tout moment (voir section "Contact"). Veuillez noter que de nouvelles données peuvent être créées si vous interagissez de nouveau avec le bot.
+Conformément au [Règlement Général sur la Protection des Données (RGPD)](https://www.cnil.fr/fr/reglement-europeen-protection-donnees) de l'Union Européenne, vous pouvez demander la suppression de vos données de nos serveurs à tout moment (voir section [Contact](#contact)). Veuillez noter que de nouvelles données peuvent être créées si vous interagissez de nouveau avec le bot.
 
 Comme indiqué dans nos [conditions générales d'utilisation](/conditions.md), nous nous réservons le droit de supprimer vos données quelque soit le motif, avec ou sans préavis.
 
@@ -47,7 +57,7 @@ Nous ne portons aucune garantie sur l'intégrité et la fiabilité des données,
 
 Cette politique de confidentialité est susceptible d'évoluer au fil du temps. Dans ce cas, un message vous sera annoncé sur notre serveur Discord. Vous aurez également une période de transition avant l'application des nouvelles conditions.
 
-Vous pouvez à tout moment refuser nos conditions. Dans ce cas, vous vous engagez à arrêter d'utiliser les services de Morpy. Vous pouvez demander la suppression de vos données suivant les modalités définies dans la section "Suppression des données".
+Vous pouvez à tout moment refuser nos conditions. Dans ce cas, vous vous engagez à arrêter d'utiliser les services de Morpy. Vous pouvez demander la suppression de vos données suivant les modalités définies dans la section [Suppression des données](#suppression-des-données).
 
 ## Contact
 
