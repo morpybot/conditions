@@ -1,6 +1,7 @@
 # Politique de confidentialité
 
-_Version en vigueur depuis le 27 février 2022._
+_Dernière mise à jour le 27 février 2022._
+_Ces conditions ne sont pas encore effectives, elles le seront dès le 6 mars._
 
 ### Sommaire
 
