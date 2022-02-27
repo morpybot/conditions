@@ -34,9 +34,9 @@ Les données suivantes sont récupérées sans être sauvegardées. Elles sont d
 
 Les données suivantes sont enregistrées dans nos systèmes :
 
-- **Votre identifiant de compte**, un numéro unique associé à votre compte permettant de l'identifié. Il est collecté à des fins techniques.
+- **Votre identifiant de compte**, un numéro unique associé à votre compte permettant de l'identifier. Il est collecté à des fins techniques.
 - **Le serveur** sur lequel vous vous trouvez et les **salons** de celui-ci.
-- Les données que vous envoyez à travers les commandes, comme les paramètres du bot ou bien la partie en cours.
+- **Les données que vous envoyez** à travers les commandes, comme les paramètres du bot ou bien la partie en cours.
 - **Les serveurs** sur lesquels vous ajoutez ou retirez le bot.
 
 ## Utilisation des données

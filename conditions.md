@@ -26,7 +26,7 @@ Les termes "vous", "votre" font référence à vous, utilisateur.
 
 En utilisant les services proposés par Morpy, vous déclarez avoir lu et accepté les présentes conditions générales d'utilisation et notre [politique de confidentialité](/confidentialite.md).
 
-Les [conditions d'utilisation de Discord](https://discord.com/terms) sont également appliquées dans l'utilisation du bot.
+Les [conditions d'utilisation de Discord](https://discord.com/terms) sont applicables dans l'utilisation du bot.
 
 La législation française est également applicable, du fait que Morpy est un projet implanté en France.
 
