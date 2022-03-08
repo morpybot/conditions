@@ -1,7 +1,6 @@
 # Conditions générales d'utilisation
 
-_Dernière mise à jour le 27 février 2022._
-_Ces conditions ne sont pas encore effectives, elles le seront dès le 6 mars 2022._
+_En vigueur depuis le 6 mars 2022._
 
 ### Sommaire
 
