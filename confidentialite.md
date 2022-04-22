@@ -1,6 +1,7 @@
 # Politique de confidentialité
 
-_En vigueur depuis le 6 mars 2022._
+_Dernière mise à jour le 22 avril 2022._
+_Ces conditions ne sont pas encore effectives, elles le seront dès le 30 avril 2022._
 
 ### Sommaire
 
@@ -38,6 +39,14 @@ Les données suivantes sont enregistrées dans nos systèmes :
 - **Le serveur** sur lequel vous vous trouvez et les **salons** de celui-ci.
 - **Les données que vous envoyez** à travers les commandes, comme les paramètres du bot ou bien la partie en cours.
 - **Les serveurs** sur lesquels vous ajoutez ou retirez le bot.
+
+Vos données sont stockées à Strasbourg, France par notre hébergeur :
+
+> OVH SAS<br>
+> 2 rue Kellermann 59100 Roubaix, France<br>
+> Société inscrite au RCS de Lille Métropole au numéro B424 761 419
+
+Toutes les données sont exclusivement destinées à être stockées en France. Néanmoins, vous autorisez Morpy à transmettre des données hors de l'Union Européenne, sans être stockées, uniquement à des fins de transit de données.
 
 ## Utilisation des données
 
