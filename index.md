@@ -11,7 +11,7 @@ Le bot est disponible en français et également en anglais.
 [Conditions générales d'utilisation](/conditions.md)<br>
 [Politique de confidentialité](/confidentialite.md)
 
-[Ajouter le bot](https://discord.com/oauth2/authorize?client_id=627499643407958030&scope=bot+applications.commands&permissions=847040)<br>
+[Ajouter le bot](https://discord.com/api/oauth2/authorize?client_id=627499643407958030&permissions=379904&scope=bot%20applications.commands)<br>
 [Serveur support](https://discord.com/invite/qwrSNe3)
 
 Twitter - [@MorpyBot](https://twitter.com/MorpyBot)<br>
