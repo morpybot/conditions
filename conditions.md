@@ -1,13 +1,14 @@
 # Conditions générales d'utilisation
 
-_En vigueur depuis le 6 mars 2022._
+_Dernière mise à jour le 22 avril 2022._
+_Ces conditions ne sont pas encore effectives, elles le seront dès le 30 avril 2022._
 
 ### Sommaire
 
 1. [Préambule](#préambule)
 2. [Législations](#législations)
 3. [Accès au service](#accès-au-service)
-4. [Contenus](#contenus)
+4. [Propriété intellectuelle](#propriété-intellectuelle)
 5. [Garanties](#garanties)
 6. [Fin du service](#fin-du-service)
 7. [Conflits](#conflits)
@@ -38,9 +39,11 @@ Morpy a accès aux données concernant votre compte Discord lorsque vous interra
 
 Les services proposés sont entièrement gratuits et sans publicités. Nous fournissons un bot Discord à travers lequel vous pouvez interagir et un serveur support sur Discord. L'accès au serveur Discord est régi par son règlement intérieur, disponible dans le salon "Règlement".
 
-## Contenus
+## Propriété intellectuelle
 
 Nous sommes responsables des contenus et annonces diffusés par le bot Morpy et sur le serveur Discord du projet.
+
+En outre, tous les contenus, images, logos, interfaces, messages, sont la propriété intellectuelle de Morpy, et sont soumis au droit d'auteur. Toute copie est interdite sans l'accord des deux partis. Les mini-jeux proposés sont des jeux appartenant au domaine public et sont proposés par Morpy ; la réutilisation du concept est donc possible mais les contenus, comme les interfaces, les images et logos appartiennent à Morpy.
 
 Vous êtes responsables des contenus (texte, images, documents, ou autres médias) envoyés par votre compte, comme indiqué dans les [conditions d'utilisation de Discord](https://discord.com/terms).
 
